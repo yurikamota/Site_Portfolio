@@ -28,8 +28,3 @@ In this project, I aimed to create a minimalist and modern layout that is easy t
 - CSS3  
 - JavaScript  
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
